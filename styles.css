@@ -100,7 +100,7 @@
   margin-bottom: 20px;
 }
 
-/* NOTES */
+
 .notes {
   padding: 90px 0;
   text-align: center;
@@ -199,4 +199,9 @@
 .footer hr {
   margin: 30px 0;
   border-color: rgba(255,255,255,.2);
+}
+.footer-copy {
+  text-align: center;
+  font-size: 14px;
+  color: #cfd8e3;
 }
