@@ -10,6 +10,20 @@
   margin: 0 auto;
   padding: 0 24px;
 }
+.brain {
+  padding: 100px 0;
+  background-color: #ffffff;
+}
+.brain-layout {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  gap: 80px;
+}
+.brain-layout img {
+  width: 100%;
+  max-width: 420px;
+}
 
 
 
